@@ -41,6 +41,7 @@ const Demo = () => {
                 </tbody>
             </table>
             <iframe
+                title="Google Maps"
                 width="600"
                 height="450"
                 frameborder="0"
